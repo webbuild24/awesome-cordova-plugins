@@ -41,7 +41,7 @@ export interface PDFGeneratorOptions {
  * Simple plugin to generate (offline) pdf. The plugin transforms HTML to PDF and also provide the mechanism to share the pdf to other apps like Mail, etc.
  * @usage
  * ```typescript
- * import { PDFGenerator } from '@awesome-cordova-plugins/pdf-generator';
+ * import { PDFGenerator } from '@awesome-cordova-plugins/pdf-generator/ngx';
  *
  * constructor(private pdfGenerator: PDFGenerator) { }
  *
